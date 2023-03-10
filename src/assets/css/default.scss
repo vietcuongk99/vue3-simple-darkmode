@@ -1,0 +1,14 @@
+:root {
+  --text-color: #000;
+  --background-color: #fff;
+  --toggle-bg-color: #000;
+}
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  background: var(--background-color);
+  color: var(--text-color);
+  transition: 0.3s linear;
+  height: 100vh;
+  margin: 0;
+}

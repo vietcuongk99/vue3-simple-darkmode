@@ -1,0 +1,11 @@
+[data-theme="dark"] {
+  --text-color: #fff;
+  --background-color: #272a34;
+  --toggle-bg-color: #373838;
+}
+
+[data-theme="light"] {
+  --text-color: #000;
+  --background-color: #fff;
+  --toggle-bg-color: #c3e4fa;
+}
