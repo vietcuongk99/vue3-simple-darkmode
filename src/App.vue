@@ -9,7 +9,7 @@
 <script>
 import { ref } from 'vue'
 import ThemeToggle from "./components/ThemeToggle.vue";
-import {DARK_THEME, LIGHT_THEME} from "./config/default";
+import {DARK_THEME, LIGHT_THEME} from "./configs/theme";
 export default {
   components: {ThemeToggle},
   setup () {

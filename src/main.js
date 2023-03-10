@@ -1,4 +1,4 @@
-import './assets/css/main.scss'
+import './assets/style/main.scss'
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
 /* import font awesome icon component */
